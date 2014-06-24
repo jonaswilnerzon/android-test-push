@@ -1,0 +1,11 @@
+{
+	"name": "push",
+	"description": "App to send push notifications to Android devices",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "4.4.4",
+		"node-gcm": "0.9.11",
+		"querystring": "0.2.0"
+	}
+}
